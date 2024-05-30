@@ -1,2 +1,13 @@
-gh-scoped-creds
-nbgitpuller
+channels:
+  - conda-forge
+dependencies:
+  - gh-scoped-creds
+  - nbgitpuller
+  - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-myst
+  - jupyter-server-proxy
+  - jupyter-book
+  - jupyterhub-singleuser
+  - numpy
+  - matplotlib
