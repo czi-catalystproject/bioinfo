@@ -1,4 +1,5 @@
 channels:
+  - bioconda
   - conda-forge
 dependencies:
   - gh-scoped-creds
@@ -11,3 +12,7 @@ dependencies:
   - jupyterhub-singleuser
   - numpy
   - matplotlib
+  - pandas
+  - fastqc
+  - spades
+  - trimmomatic
