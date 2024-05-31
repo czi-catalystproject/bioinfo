@@ -12,6 +12,7 @@ dependencies:
   - jupyterhub-singleuser
   - numpy
   - matplotlib
+  - ncbi-datasets-cli
   - pandas
   - fastqc
   - spades
